@@ -1,43 +1,43 @@
-# Introdução à Programação e Pensamento Computacional
+# IntroduÃ§Ã£o Ã  ProgramaÃ§Ã£o e Pensamento Computacional
 
-O que aprendi até aqui :grin:
+O que aprendi atÃ© aqui :grin:
 
 ### Pensamento Computacional
 
- - Introdução ao pensamento computacional
+ - IntroduÃ§Ã£o ao pensamento computacional
  - Habilidades complementares
- - Pilares: Decomposição
- - Pilares: Padrões
- - Pilares: Abstração
+ - Pilares: DecomposiÃ§Ã£o
+ - Pilares: PadrÃµes
+ - Pilares: AbstraÃ§Ã£o
  - Pilares: Algoritmo
  - Estudos de caso
 	- perdido
 	- soma de intervalo
-	- adivinhe um número
+	- adivinhe um nÃºmero
 
-### Introdução à Lógica de Programação
+### IntroduÃ§Ã£o Ã  LÃ³gica de ProgramaÃ§Ã£o
 
- - O que é lógica?
- - Técnicas de lógica de programação
+ - O que Ã© lÃ³gica?
+ - TÃ©cnicas de lÃ³gica de programaÃ§Ã£o
 
 ### Fundamentos de Algoritmos
 
- - Tipologia e variáveis
- - Instruções primitivas
+ - Tipologia e variÃ¡veis
+ - InstruÃ§Ãµes primitivas
  - Estruturas condicionais e operadores
- - Estruturas de repetição
+ - Estruturas de repetiÃ§Ã£o
  - Vetores e matrizes
- - O que são funções?
- - Instruções de entrada e saída
+ - O que sÃ£o funÃ§Ãµes?
+ - InstruÃ§Ãµes de entrada e saÃ­da
 
-### Linguagens de Programação
+### Linguagens de ProgramaÃ§Ã£o
 
- - Introdução à linguagens de programação
+ - IntroduÃ§Ã£o Ã  linguagens de programaÃ§Ã£o
  - Como um computador entende o programa?
- - Características de um programa
- - Análises de código
- - Paradigmas de programação
+ - CaracterÃ­sticas de um programa
+ - AnÃ¡lises de cÃ³digo
+ - Paradigmas de programaÃ§Ã£o
 
-### Primeiro Contato com a Programação
+### Primeiro Contato com a ProgramaÃ§Ã£o
 
  - Algoritmos em portugol

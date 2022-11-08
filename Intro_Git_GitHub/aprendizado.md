@@ -1,19 +1,19 @@
-# Introdução ao Git/GitHub
+# IntroduÃ§Ã£o ao Git/GitHub
 
-O que aprendi até agora :grin:
+O que aprendi atÃ© agora :grin:
 
-### Introdução ao Git
+### IntroduÃ§Ã£o ao Git
 
- - Entendendo o que é Git e sua importância
+ - Entendendo o que Ã© Git e sua importÃ¢ncia
 
-### Navegação via command line interface (CLI) e instalação
+### NavegaÃ§Ã£o via command line interface (CLI) e instalaÃ§Ã£o
 
- - Comandos básicos para um bom desempenho no terminal
- - Realizando a instalação do Git
+ - Comandos bÃ¡sicos para um bom desempenho no terminal
+ - Realizando a instalaÃ§Ã£o do Git
 
 ### Entendendo como o Git funciona por baixo dos panos
 
- - Tópicos fundamentais para entender o funcionamento do Git
+ - TÃ³picos fundamentais para entender o funcionamento do Git
  - Objetos internos do Git
  - Chave SSH e Token
 
@@ -25,10 +25,10 @@ O que aprendi até agora :grin:
 
  - Passo a passo no ciclo de vida
 
-### Introdução ao GitHub
+### IntroduÃ§Ã£o ao GitHub
 
  - Trabalhando com o GitHub
 
 ### Resolvendo conflitos
 
- - Como os conflitos acontecem e como resolvê-los
+ - Como os conflitos acontecem e como resolvÃª-los
